@@ -5,6 +5,6 @@
   "license": "MIT",
   "scripts": {
     "start": "marp slide.md -w",
-    "pdf": "marp --pdf slide.md"
+    "build": "marp --pdf slide.md"
   }
 }
