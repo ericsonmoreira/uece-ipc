@@ -1,4 +1,6 @@
-# Alunos
+# ICC - UECE
+
+## Alunos
 
 - Bruno Silveira de Moraes - 1461797
 - Ericson Rogério Moreira - 1538663
@@ -6,4 +8,4 @@
 - Pedro Paulo Rocha de Andrade - 1500076
 - Raimundo Angeliano Gonçalves de Sousa - 1476646
 
-# Slide
+## 🔗 Clique [aqui](https://ericsonmoreira.github.io/uece-ipc/) para ver a apresentação
