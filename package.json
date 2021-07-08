@@ -1,0 +1,10 @@
+{
+  "name": "icc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "marp slide.md -w",
+    "pdf": "marp --pdf slide.md"
+  }
+}
